@@ -1,3 +1,4 @@
+=begin
 require 'spec_helper'
 
 describe PagesController do
@@ -30,4 +31,6 @@ describe PagesController do
     end
   end
 
+
 end
+=end
